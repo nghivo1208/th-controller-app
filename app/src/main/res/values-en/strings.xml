@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TH Controller</string>
+    <string name="title_main">Bảng điều khiển</string>
+    <string name="subtitle_main">Bộ khống chế nhiệt độ, độ ẩm</string>
+
+    <!-- Login -->
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="next">Next</string>
+    <string name="register">Register</string>
+    <string name="username_empty">Username is empty</string>
+    <string name="password_empty">Password is empty</string>
+    <string name="confirm_password_empty">Confirm password is empty</string>
+    <string name="confirm_password_wrong">Confirm password is wrong</string>
+    <string name="account_incorrect">Account is incorrect. Please try again!</string>
+    <string name="max_temp">Ngưỡng trên</string>
+    <string name="min_temp">Ngưỡng dưới</string>
+    <string name="max_humidity">Ngưỡng trên</string>
+    <string name="min_humidity">Ngưỡng dưới</string>
+    <string name="auto">Auto</string>
+    <string name="manual">Manual</string>
+    <string name="heater">Gia nhiệt</string>
+    <string name="spray">Phun</string>
+    <string name="fan_temp">Quạt nhiệt</string>
+    <string name="fan_humidity">Quạt ẩm</string>
+    <string name="title_change_value">Thay đổi giá trị ngưỡng</string>
+    <string name="max_value">Ngưỡng trên</string>
+    <string name="min_value">Ngưỡng dưới</string>
+    <string name="change">Thay Đổi</string>
+    <string name="on">MỞ</string>
+    <string name="off">TẮT</string>
+    <string name="temp">Nhiệt độ</string>
+    <string name="humi">Độ ẩm</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="login">Đăng nhập</string>
+    <string name="title_app_name">Ứng dụng điều khiển</string>
+
+</resources>
